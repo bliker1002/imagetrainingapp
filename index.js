@@ -1,4 +1,4 @@
-onst { spawn } = require('child_process');
+const { spawn } = require('child_process');
 const path = require('path');
 
 // Run the execution.py script
